@@ -14,3 +14,9 @@ Thumbs.db
 # Build artifacts
 *.rs.bk
 *.pdb
+
+# Env
+.env
+
+# Generated stories
+stories/
